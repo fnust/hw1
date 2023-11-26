@@ -2,13 +2,13 @@
   "name": "weather",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "src/weather.js",
   "scripts": {
     "test": ""
   },
   "keywords": [],
   "preferGlobal": true,
-  "bin": "./weather.js",
+  "bin": "./src/weather.js",
   "author": "",
   "type": "module",
   "license": "ISC",

@@ -10,7 +10,7 @@ import { Command } from 'commander';
 const program = new Command();
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
-const file = path.join(__dirname, 'configs.json');
+const file = path.join(__dirname, '../configs.json');
 
 program
   .description(
